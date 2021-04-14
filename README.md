@@ -11,6 +11,8 @@
 
 ## جدول المحتوى
 <ul>
+<div dir="ltr">
+
   <li>Ch01</li>
   <ul>
     <li>01.md</li>
@@ -23,8 +25,8 @@
     <li>01.md</li>
     <li>02.md</li>
   </ul>
-
-
+  
+</div>
 </ul>
 
 </div>
