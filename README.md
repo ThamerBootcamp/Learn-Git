@@ -45,46 +45,46 @@
 
  <li>Ch05</li>
   <ul>
-    <li>01.md</li>
-    <li>02.md</li>
+    <li>الأمر git log</li>
+    <li>الأمر git log --oneline</li>
   </ul>
 
  <li>Ch06</li>
   <ul>
-    <li>01.md</li>
-    <li>02.md</li> 
-    <li>03.md</li>
-    <li>04.md</li>
-    <li>05.md</li>
-    <li>06.md</li>
+    <li>مفهوم الفروع | Branches Concept</li>
+    <li>إنشاء وعرض الفروع | git branch</li> 
+    <li>الانتقال بين الفروع | git checkout </li>
+    <li>إنشاء فرع جديد والانتقال له</li>
+    <li>إعادة تسمية الفرع</li>
+    <li>حذف فرع</li>
   </ul>
  
  <li>Ch07</li>
   <ul>
-    <li>01.md</li>
-    <li>02.md</li>
-    <li>03.md</li>
+    <li>مفهوم الدمج | Merge</li>
+    <li>الدمج المباشر | Fast-Forward Merge</li>
+    <li>الدمج الحقيقي | True Merge</li>
   </ul>
     
  <li>Ch08</li>
   <ul>
-    <li>01.md</li>
-    <li>02.md</li>
-    <li>03.md</li>
+    <li>إنشاء وعرض tag</li>
+    <li>عرض تفاصيل tag</li>
+    <li>حذف tag</li>
   </ul>
 
  <li>Ch09</li>
   <ul>
-    <li>01.md</li>
-    <li>02.md</li>
-    <li>03.md</li>
+    <li>الأمر git clone</li>
+    <li>الأمر git push</li>
+    <li>الأمر git pull</li>
   </ul>
 
-<li>Ch09</li>
+<li>Ch10</li>
   <ul>
-    <li>01.md</li>
-    <li>02.md</li>
-    <li>03.md</li>
+    <li>إضافة remote</li>
+    <li>رفع التحديثات لمشروع خارجي</li>
+    <li>حذف remote</li>
 </ul>
 
 <!-- </div> -->
