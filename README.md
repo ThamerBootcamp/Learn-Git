@@ -1,4 +1,4 @@
-<div dir="ltr">
+<div dir="rtl">
 
 # Learn-Git
 
