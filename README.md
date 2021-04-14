@@ -1,5 +1,8 @@
+<div dir="ltr">
+
 # Learn-Git
 
-# الوصف 
+## الوصف
+تم إنشاء هذا المشروع لتلخيص دورة Git على منصة طويق التعليمية
 
-<!-- TOC --> autoauto- [Learn-Git](#learn-git)auto- [الوصف](#الوصف)autoauto <!-- /TOC -->
+</div>
