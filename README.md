@@ -11,7 +11,7 @@
 
 ## جدول المحتوى
 <ul>
-<div dir="ltr">
+<!-- <div dir="ltr"> -->
 
   <li>Ch01: </li>
   <ul>
@@ -87,7 +87,7 @@
     <li>03.md</li>
 </ul>
 
-</div>
+<!-- </div> -->
 </ul>
 
   
